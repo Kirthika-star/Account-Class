@@ -62,6 +62,7 @@ class Program
         Console.WriteLine(x1);
         Console.WriteLine(x2);
         Console.WriteLine("It works!!");
+        Console.WriteLine("2nd time!");
 
         string? s = null;
 
