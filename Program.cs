@@ -1,4 +1,6 @@
-﻿namespace Capstone;
+﻿using System.Runtime.CompilerServices;
+
+namespace Capstone;
 
 class Program
 {
@@ -59,6 +61,7 @@ class Program
 
         Console.WriteLine(x1);
         Console.WriteLine(x2);
+        Console.WriteLine("It works!!");
 
         string? s = null;
 

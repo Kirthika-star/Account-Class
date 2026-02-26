@@ -26,3 +26,4 @@ c:\Users\kd1050437\Desktop\Account Class\bin\Debug\net9.0\Capstone.dll
 c:\Users\kd1050437\Desktop\Account Class\bin\Debug\net9.0\Capstone.pdb
 c:\Users\kd1050437\Desktop\Account Class\obj\Debug\net9.0\Capstone.genruntimeconfig.cache
 c:\Users\kd1050437\Desktop\Account Class\obj\Debug\net9.0\ref\Capstone.dll
+c:\Users\kd1050437\Desktop\Account Class\obj\Debug\net9.0\Capstone.sourcelink.json
